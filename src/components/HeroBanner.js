@@ -23,7 +23,7 @@ const HeroBanner = () => {
       </Typography>
 
       <Typography color="#395B64" fontSize="22px" lineHeight="35px" mb={4}>
-       Check out most effective exercises exercises
+       Check out most effective exercises
       </Typography>
 
       <Button sx={{backgroundColor: "#2C3333", padding: "10px"}}
