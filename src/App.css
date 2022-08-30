@@ -10,10 +10,6 @@ body {
 
 }
 
-html{
-  padding: 0px;
-  margin: 0px;
-}
 ::-webkit-scrollbar {
   width: 0px;
 }
@@ -27,7 +23,7 @@ html{
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #FF2625;
+  color: #395B64;
   font-size: 25px;
   border-radius: 4px;
   position: absolute;
